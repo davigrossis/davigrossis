@@ -1,17 +1,85 @@
-## # 👋 Olá, eu sou o Davi Grossi!
-👋
+<h1 align="center">👋 Olá, eu sou o Davi Grossi!</h1>
 
-<!--
-**davigrossis/davigrossis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor Full Stack.  
+  <br/>
+  Graduando na Área de Tecnologia da Informação.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+<p align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="50" height="50" />
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+- 🎓 Estudante de Computação  
+- 💼 Membro ativo da **Empresa Júnior de Computação da UFJF**  
+- 🌱 Atualmente aprendendo mais sobre **arquitetura de software e boas práticas de código**  
+- 💬 Pergunte-me sobre **JavaScript, React, Node.js e Next.js**  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davigrossi&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=davigrossi&theme=react&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigrossi&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🏷️ Badges personalizadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Links úteis para quem quiser montar seu README
+
+🔹 [Devicon — Ícones para suas stacks](https://devicon.dev/)  
+🔹 [Shields.io — Badges personalizáveis](https://shields.io/)  
+🔹 [GitHub Readme Stats — Estatísticas automáticas do GitHub](https://lnkd.in/dCDKqnkN)  
+🔹 [GitHub Profile Readme Generator — Gerador de perfis README](https://lnkd.in/dB89Ayta)  
+🔹 [Awesome GitHub Profile README — Exemplos inspiradores](https://lnkd.in/dVyCx3jc)
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:davigrossi@email.com"><img src="https://img.shields.io/badge/Email-Davi%20Grossi-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/davigrossi"><img src="https://img.shields.io/badge/LinkedIn-Davi%20Grossi-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/davigrossi"><img src="https://img.shields.io/badge/GitHub-davigrossi-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+✨ *“Um README bem feito é*
+
