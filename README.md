@@ -39,7 +39,6 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davigrossis&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davigrossis&theme=react&hide_border=true" alt="GitHub Streak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigrossis&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </div>
