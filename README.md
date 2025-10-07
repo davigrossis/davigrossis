@@ -74,11 +74,16 @@
 ---
 
 ## 📫 Contato
-
 <p align="center">
-  <a href="mailto:davigrossi@email.com"><img src="https://img.shields.io/badge/Email-Davi%20Grossi-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/davigrossi"><img src="https://img.shields.io/badge/LinkedIn-Davi%20Grossi-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/davigrossi"><img src="https://img.shields.io/badge/GitHub-davigrossi-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:davi.grossi.souza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Davi%20Grossi-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/davi-grossi-soares-de-souza-125730249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Davi%20Grossi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/davigrossis">
+    <img src="https://img.shields.io/badge/GitHub-davigrossis-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
