@@ -88,5 +88,5 @@
 
 ---
 
-✨ *“Um README bem feito é*
+
 
