@@ -69,7 +69,6 @@
 🔹 [Shields.io — Badges personalizáveis](https://shields.io/)  
 🔹 [GitHub Readme Stats — Estatísticas automáticas do GitHub](https://lnkd.in/dCDKqnkN)  
 🔹 [GitHub Profile Readme Generator — Gerador de perfis README](https://lnkd.in/dB89Ayta)  
-🔹 [Awesome GitHub Profile README — Exemplos inspiradores](https://lnkd.in/dVyCx3jc)
 
 ---
 
