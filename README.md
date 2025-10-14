@@ -87,6 +87,4 @@
 
 ---
 
-<h1 align="center"> Volte sempre </h1>
-
 
