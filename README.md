@@ -33,7 +33,7 @@
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de Computação  
-- 💼 Membro ativo da **Empresa Júnior de Computação da UFJF**  
+- 💼 Membro ativo da **Empresa Júnior de Computação da UFJF CodeJr**  
 - 🌱 Atualmente aprendendo mais sobre **arquitetura de software e boas práticas de código**  
 - 💬 Pergunte-me sobre **JavaScript, React, Node.js e Next.js**  
 
